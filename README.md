@@ -2,8 +2,6 @@
 
 **Full-stack AI-powered healthcare referral management system** with OCR, speech-to-text transcription, DICOM imaging, and real-time clinical workflows.
 
-![Demo](https://img.shields.io/badge/Watch%20Demo-FF0000?logo=youtube&logoColor=white)
-
 ## 🎥 Demo Video
 
 Watch the full project demonstration:
