@@ -1,4 +1,4 @@
-# MediFlow AI
+# MediFlow AI: Healthcare Referral Management Platform
 
 **Full-stack AI-powered healthcare referral management system** with OCR, speech-to-text transcription, DICOM imaging, and real-time clinical workflows.
 
