@@ -77,7 +77,7 @@ This diagram illustrates the complete patient referral lifecycle, from patient r
 ### AI & Infrastructure
 - **Groq Cloud** (Llama 3.1 8B) — Clinical summaries and quality scoring
 - **Google Speech Recognition** — Speech-to-text
-- **Backblaze B2** (S3-compatible) — Secure document storage
+- **AWS** (S3-compatible) — Secure document storage
 - **WebSockets** — Real-time notifications
 
 ## 🚀 Getting Started
