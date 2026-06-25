@@ -1,6 +1,10 @@
-# MediFlow AI: Healthcare Referral Management Platform
+# MediFlow AI: Intelligent Healthcare Referral Platform
 
-**Full-stack AI-powered healthcare referral management system** with OCR, speech-to-text transcription, DICOM imaging, and real-time clinical workflows.
+MediFlow AI is a full-stack, AI-powered healthcare referral management platform designed to digitize and optimize patient referrals across healthcare facilities.
+
+Built with **Next.js, FastAPI, PostgreSQL, and modern AI services**, MediFlow transforms fragmented, paper-based referral workflows into a centralized, real-time clinical collaboration platform. The system combines OCR, speech-to-text transcription, AI-assisted clinical summarization, intelligent duplicate detection, real-time notifications, and referral analytics to reduce administrative overhead while improving referral visibility and continuity of care.
+
+Rather than replacing clinicians, MediFlow augments clinical workflows by automating repetitive administrative tasks while preserving clinician oversight and auditability throughout the referral lifecycle.
 
 ## 🎥 Demo Video
 
@@ -9,15 +13,48 @@ Watch the full project demonstration:
 [![MediFlow AI Demo](https://img.shields.io/badge/Watch_Full_Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1_wYbJPWEES41D3lyRa17OiexM3o0Wnu7/view?usp=sharing)
 
 > *Click the button above or the image to watch the demo video on Google Drive.*
+## 🎥 Demo Video
+
+Watch the full project demonstration:
+
+[![MediFlow AI Demo](https://img.shields.io/badge/Watch_Full_Demo-4285F4?style=for-the-badge\&logo=googledrive\&logoColor=white)](https://drive.google.com/file/d/1_wYbJPWEES41D3lyRa17OiexM3o0Wnu7/view?usp=sharing)
+
+> *Click the button above to watch the complete end-to-end demonstration.*
+
+---
+
+# 🏗️ System Architecture
+
+Explore the high-level architecture behind MediFlow, including the AI pipeline, backend services, authentication, storage, and interoperability design.
+
+📄 **Architecture Diagram:**
+**[https://YOUR_ARCHITECTURE_LINK_HERE](https://drive.google.com/file/d/1mwdPeysiQDE0mySE-HnOOjAblZJLlP1_/view?usp=drive_link)**
+
+---
+
+# 🔄 User Workflow
+
+This diagram illustrates the complete patient referral lifecycle, from patient registration through AI-assisted referral creation, facility review, and referral tracking.
+
+📄 **Workflow Diagram:**
+**[https://YOUR_USER_FLOW_LINK_HERE](https://drive.google.com/file/d/1LtPnJHd21DneT0-DSfvqnip9J5MEPtKS/view?usp=drive_link)**
 
 ## ✨ Features
 
-- **AI-Powered Referral Management** — Intelligent handling of patient referrals
-- **OCR (Optical Character Recognition)** — Extract text from medical documents and faxes
-- **Speech-to-Text Transcription** — Convert doctor notes and consultations into structured data
-- **DICOM Imaging Support** — View and manage medical images
-- **Real-time Clinical Workflows** — Live updates and collaboration between healthcare providers
-- **Full-stack Architecture** — Modern backend + responsive frontend
+* **AI-Assisted Clinical Referrals** — Create, manage, and track referrals across multiple healthcare facilities.
+* **Intelligent OCR Pipeline** — Extract structured clinical information from scanned referral letters, laboratory reports, and medical documents.
+* **Speech-to-Text Clinical Notes** — Convert clinician voice recordings into structured referral documentation.
+* **AI Clinical Summarization** — Automatically generate concise referral summaries, identify key findings, assess referral completeness, and classify medical specialties.
+* **Duplicate Patient Detection** — Hybrid TF-IDF and fuzzy matching to reduce duplicate patient records.
+* **Real-Time Referral Tracking** — Live referral status updates and WebSocket-powered notifications.
+* **Role-Based Access Control (RBAC)** — Separate workflows for Super Admins, Facility Administrators, and Clinicians.
+* **Referral Analytics Dashboard** — Monitor referral trends, specialty distribution, facility performance, and operational KPIs.
+* **Audit Trail & Activity Timeline** — Complete referral lifecycle tracking for accountability and traceability.
+* **DICOM Imaging Support** — Manage and view diagnostic medical images alongside referral records.
+* **Cloud Document Storage** — Secure storage and retrieval of clinical documents and attachments.
+* **FHIR-Ready Modular Architecture** — Designed to support healthcare interoperability and future integration with external health information systems.
+* **Modern Full-Stack Architecture** — FastAPI, PostgreSQL, Next.js, Tailwind CSS, asynchronous AI pipelines, and modular backend services.
+
 
 ## 📁 Repositories
 
