@@ -13,13 +13,6 @@ Watch the full project demonstration:
 [![MediFlow AI Demo](https://img.shields.io/badge/Watch_Full_Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1_wYbJPWEES41D3lyRa17OiexM3o0Wnu7/view?usp=sharing)
 
 > *Click the button above or the image to watch the demo video on Google Drive.*
-## 🎥 Demo Video
-
-Watch the full project demonstration:
-
-[![MediFlow AI Demo](https://img.shields.io/badge/Watch_Full_Demo-4285F4?style=for-the-badge\&logo=googledrive\&logoColor=white)](https://drive.google.com/file/d/1_wYbJPWEES41D3lyRa17OiexM3o0Wnu7/view?usp=sharing)
-
-> *Click the button above to watch the complete end-to-end demonstration.*
 
 ---
 
@@ -28,7 +21,7 @@ Watch the full project demonstration:
 Explore the high-level architecture behind MediFlow, including the AI pipeline, backend services, authentication, storage, and interoperability design.
 
 📄 **Architecture Diagram:**
-**[https://YOUR_ARCHITECTURE_LINK_HERE](https://drive.google.com/file/d/1mwdPeysiQDE0mySE-HnOOjAblZJLlP1_/view?usp=drive_link)**
+**[CLICK HERE](https://drive.google.com/file/d/1mwdPeysiQDE0mySE-HnOOjAblZJLlP1_/view?usp=drive_link)**
 
 ---
 
@@ -37,7 +30,7 @@ Explore the high-level architecture behind MediFlow, including the AI pipeline, 
 This diagram illustrates the complete patient referral lifecycle, from patient registration through AI-assisted referral creation, facility review, and referral tracking.
 
 📄 **Workflow Diagram:**
-**[https://YOUR_USER_FLOW_LINK_HERE](https://drive.google.com/file/d/1LtPnJHd21DneT0-DSfvqnip9J5MEPtKS/view?usp=drive_link)**
+**[CLICK_HERE](https://drive.google.com/file/d/1LtPnJHd21DneT0-DSfvqnip9J5MEPtKS/view?usp=drive_link)**
 
 ## ✨ Features
 
