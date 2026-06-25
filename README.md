@@ -1,3 +1,20 @@
+<img width="1365" height="676" alt="Screenshot 2026-06-26 011025" src="https://github.com/user-attachments/assets/36b8d189-a54b-4f39-8171-b5b58620401f" />
+<img width="1365" height="681" alt="Screenshot 2026-06-26 010954" src="https://github.com/user-attachments/assets/9e89de09-39c7-48be-bddf-5af158b496a3" />
+<img width="1365" height="678" alt="Screenshot 2026-06-26 010936" src="https://github.com/user-attachments/assets/126a2c5d-9e5c-4adb-878d-ca304f66a352" />
+<img width="1365" height="680" alt="Screenshot 2026-06-26 010918" src="https://github.com/user-attachments/assets/b75aa840-9c96-4c42-8c3b-d92d4901e433" />
+<img width="1365" height="682" alt="Screenshot 2026-06-26 011317" src="https://github.com/user-attachments/assets/20603913-4a08-4faf-a22f-01ad071244df" />
+<img width="1365" height="680" alt="Screenshot 2026-06-26 011308" src="https://github.com/user-attachments/assets/3a980f97-090c-49cd-aefd-89205c368ea0" />
+<img width="1365" height="680" alt="Screenshot 2026-06-26 011308 - Copy" src="https://github.com/user-attachments/assets/4ed9cb9e-cde4-4167-bf30-085c076ba3e2" />
+<img width="1365" height="669" alt="Screenshot 2026-06-26 011241" src="https://github.com/user-attachments/assets/470930dd-28ea-4487-a156-2ebcc003ab3c" />
+<img width="1365" height="680" alt="Screenshot 2026-06-26 011225" src="https://github.com/user-attachments/assets/8c8463a8-ed75-462f-bc1c-cfeebfb71506" />
+<img width="1365" height="679" alt="Screenshot 2026-06-26 011214" src="https://github.com/user-attachments/assets/0b080aa2-8287-4110-92f0-5b665132d40d" />
+<img width="1365" height="681" alt="Screenshot 2026-06-26 011155" src="https://github.com/user-attachments/assets/b66d5d7e-1f44-4d1c-a6f2-46062e5c25e4" />
+<img width="1365" height="682" alt="Screenshot 2026-06-26 011144" src="https://github.com/user-attachments/assets/70f10efc-b59a-4543-aa42-f980f0ce405c" />
+<img width="1365" height="681" alt="Screenshot 2026-06-26 011122" src="https://github.com/user-attachments/assets/681e5391-3d00-4558-a54f-412edf091b11" />
+<img width="1355" height="678" alt="Screenshot 2026-06-26 011047" src="https://github.com/user-attachments/assets/8b0029f3-b5c0-454f-ab3e-cf4014b8d347" />
+<img width="1365" height="678" alt="Screenshot 2026-06-25 105557" src="https://github.com/user-attachments/assets/ae1d0c6b-08f3-49c1-a243-f9f074ef50c8" />
+<img width="1361" height="675" alt="Screenshot 2026-06-26 010900" src="https://github.com/user-attachments/assets/f48bbde2-3ed1-44ae-90b1-4175ceb7214f" />
+<img width="1365" height="678" alt="Screenshot 2026-06-25 105557" src="https://github.com/user-attachments/assets/62ea3735-74d4-4e85-99ce-728829b2436f" />
 # MediFlow AI: Intelligent Healthcare Referral Platform
 
 MediFlow AI is a full-stack, AI-powered healthcare referral management platform designed to digitize and optimize patient referrals across healthcare facilities.
