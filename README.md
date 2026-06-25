@@ -6,7 +6,7 @@
 
 Watch the full project demonstration:
 
-[![MediFlow AI Demo](https://img.shields.io/badge/Watch_Full_Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1DODezYdH3UmKJ532Bi0W10yl-DmIFbBX/view?usp=sharing)
+[![MediFlow AI Demo](https://img.shields.io/badge/Watch_Full_Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://www.youtube.com/watch?v=RgBazufVYEQ)
 
 > *Click the button above or the image to watch the demo video on Google Drive.*
 
