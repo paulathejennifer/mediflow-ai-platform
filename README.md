@@ -10,7 +10,7 @@ Rather than replacing clinicians, MediFlow augments clinical workflows by automa
 
 Watch the full project demonstration:
 
-[![MediFlow AI Demo](https://img.shields.io/badge/Watch_Full_Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1_wYbJPWEES41D3lyRa17OiexM3o0Wnu7/view?usp=sharing)
+**[CLICK HERE](https://drive.google.com/file/d/1_wYbJPWEES41D3lyRa17OiexM3o0Wnu7/view?usp=drive_link)**
 
 > *Click the button above or the image to watch the demo video on Google Drive.*
 
